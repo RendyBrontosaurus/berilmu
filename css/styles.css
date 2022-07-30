@@ -1,0 +1,104 @@
+#menu-footbar2 {
+  color: white;
+  font-family: 'Raleway', sans-serif;
+  font-weight: bolder;
+}
+
+#rowrow {
+  padding: 0 2%;
+}
+
+#keseimbangan {
+  padding-top: 6rem;
+}
+
+#navbarpad {
+  padding-bottom: 6rem;
+}
+
+#navbar-brand {
+  color: white;
+  font-family: 'Satisfy', sans-serif;
+  font-size: 3.2rem;
+  font-weight: bold;
+}
+
+#menu {
+  font-family: 'Raleway', sans-serif;
+  font-size: 1.1rem;
+  font-weight: normal;
+  color: white;
+}
+
+#body {
+  font-family: 'Alatsi', sans-serif;
+}
+
+#menu-footbar {
+  color: white;
+  font-family: 'Raleway', sans-serif;
+  font-weight: bolder;
+}
+
+.gambarlaptop {
+  width: 140%;
+}
+
+.gambarsmartphone {
+  width: 75%;
+}
+
+#container-fluid {
+  padding: 3% 15%;
+}
+
+#container-fluid-1 {
+  padding: 6% 15%;
+}
+
+#container-fluid-3 {
+  padding: 2% 15%;
+}
+
+#topmenu {
+  background-color: #A13333;
+}
+
+#mission {
+  background-color: #A13333;
+}
+
+#footbar {
+  background-color: #212529;
+}
+
+#h1 {
+  font-family: 'Alatsi', sans-serif;
+  font-size: 3rem;
+  line-height: normal;
+  color: #FFF2F2;
+}
+
+#p {
+  font-family: 'Raleway', sans-serif;
+  color: #FFF2F2;
+}
+
+#h1 {
+  font-family: 'Alatsi', sans-serif;
+  font-size: 3rem;
+  line-height: normal;
+  color: #FFF2F2;
+}
+
+#p {
+  font-family: 'Raleway', sans-serif;
+  color: #FFF2F2;
+}
+
+#p3 {
+  font-family: 'Raleway', sans-serif;
+  color: #FFF2F2;
+  font-size: 1rem;
+  padding-left: 30;
+}
